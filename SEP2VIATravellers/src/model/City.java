@@ -8,7 +8,7 @@ package model;
 import java.util.Objects;
 
 /**
- *
+ *This is a City class
  * @author Daniel Mangowi
  */
 public class City {
